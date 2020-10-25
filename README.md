@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+
 <h1 align="center">👋 Hi , I'm Guillaume</h1>
 <h4 align="center">Fullstack developer passionate about privacy, blockchain and empowering people to control their own data.
 
@@ -14,6 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#112](https://github.com/transmute-industries/sidetree.js/issues/112) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. ❗️ Closed issue [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+3. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+4. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+5. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
