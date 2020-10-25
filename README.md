@@ -14,6 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#112](https://github.com/transmute-industries/sidetree.js/issues/112) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. ❗️ Closed issue [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+3. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+4. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+5. 🗣 Commented on [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
