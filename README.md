@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/transmute-industries/sidetree.js/pull/115) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🗣 Commented on [#430](https://github.com/w3c/did-core/issues/430) in [w3c/did-core](https://github.com/w3c/did-core)
-3. ❗️ Opened issue [#1](https://github.com/gjgd/gjgd/issues/1) in [gjgd/gjgd](https://github.com/gjgd/gjgd)
-4. 🗣 Commented on [#112](https://github.com/transmute-industries/sidetree.js/issues/112) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. ❗️ Closed issue [#152](https://github.com/decentralized-identity/universal-resolver/issues/152) in [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)
+1. 🎉 Merged PR [#115](https://github.com/transmute-industries/sidetree.js/pull/115) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#115](https://github.com/transmute-industries/sidetree.js/pull/115) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🗣 Commented on [#430](https://github.com/w3c/did-core/issues/430) in [w3c/did-core](https://github.com/w3c/did-core)
+4. ❗️ Opened issue [#1](https://github.com/gjgd/gjgd/issues/1) in [gjgd/gjgd](https://github.com/gjgd/gjgd)
+5. 🗣 Commented on [#112](https://github.com/transmute-industries/sidetree.js/issues/112) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
