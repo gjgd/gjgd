@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-2. 🗣 Commented on [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-3. 🗣 Commented on [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-4. ❗️ Opened issue [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-5. 💪 Opened PR [#117](https://github.com/transmute-industries/sidetree.js/pull/117) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 💪 Opened PR [#113](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/pull/113) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+2. 🗣 Commented on [#58](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/58) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+3. ❗️ Closed issue [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+4. 🗣 Commented on [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+5. 🗣 Commented on [#80](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020/issues/80) in [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
