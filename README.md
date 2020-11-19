@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/transmute-industries/material-did/issues/18) in [transmute-industries/material-did](https://github.com/transmute-industries/material-did)
-2. ❗️ Opened issue [#1](https://github.com/Mavennet/contexts/issues/1) in [Mavennet/contexts](https://github.com/Mavennet/contexts)
-3. 🎉 Merged PR [#13](https://github.com/gjgd/lambda-url-shortener/pull/13) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. 💪 Opened PR [#13](https://github.com/gjgd/lambda-url-shortener/pull/13) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-5. 🎉 Merged PR [#2](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/2) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
+1. 💪 Opened PR [#121](https://github.com/transmute-industries/sidetree.js/pull/121) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🗣 Commented on [#18](https://github.com/transmute-industries/material-did/issues/18) in [transmute-industries/material-did](https://github.com/transmute-industries/material-did)
+3. ❗️ Opened issue [#1](https://github.com/Mavennet/contexts/issues/1) in [Mavennet/contexts](https://github.com/Mavennet/contexts)
+4. 🎉 Merged PR [#13](https://github.com/gjgd/lambda-url-shortener/pull/13) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. 💪 Opened PR [#13](https://github.com/gjgd/lambda-url-shortener/pull/13) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
