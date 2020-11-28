@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/3) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
-2. 💪 Opened PR [#3](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/3) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
-3. 💪 Opened PR [#121](https://github.com/transmute-industries/sidetree.js/pull/121) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🗣 Commented on [#18](https://github.com/transmute-industries/material-did/issues/18) in [transmute-industries/material-did](https://github.com/transmute-industries/material-did)
-5. ❗️ Opened issue [#1](https://github.com/Mavennet/contexts/issues/1) in [Mavennet/contexts](https://github.com/Mavennet/contexts)
+1. 💪 Opened PR [#4](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/4) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
+2. 🎉 Merged PR [#3](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/3) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
+3. 💪 Opened PR [#3](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/3) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
+4. 💪 Opened PR [#121](https://github.com/transmute-industries/sidetree.js/pull/121) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🗣 Commented on [#18](https://github.com/transmute-industries/material-did/issues/18) in [transmute-industries/material-did](https://github.com/transmute-industries/material-did)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
