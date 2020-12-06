@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#124](https://github.com/transmute-industries/sidetree.js/pull/124) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
-3. 🎉 Merged PR [#4](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/4) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
-4. 💪 Opened PR [#4](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/4) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
-5. 🎉 Merged PR [#3](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/3) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
+1. 💪 Opened PR [#1](https://github.com/gjgd/universal-wallet-interop-spec/pull/1) in [gjgd/universal-wallet-interop-spec](https://github.com/gjgd/universal-wallet-interop-spec)
+2. 🗣 Commented on [#9457](https://github.com/facebook/jest/issues/9457) in [facebook/jest](https://github.com/facebook/jest)
+3. 💪 Opened PR [#124](https://github.com/transmute-industries/sidetree.js/pull/124) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
+5. 🎉 Merged PR [#4](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020/pull/4) in [gjgd/attestation-deplacement-derogatoire-q4-2020](https://github.com/gjgd/attestation-deplacement-derogatoire-q4-2020)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
