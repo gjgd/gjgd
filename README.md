@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
-2. 🎉 Merged PR [#125](https://github.com/transmute-industries/sidetree.js/pull/125) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#125](https://github.com/transmute-industries/sidetree.js/pull/125) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 💪 Opened PR [#1](https://github.com/gjgd/universal-wallet-interop-spec/pull/1) in [gjgd/universal-wallet-interop-spec](https://github.com/gjgd/universal-wallet-interop-spec)
-5. 🗣 Commented on [#9457](https://github.com/facebook/jest/issues/9457) in [facebook/jest](https://github.com/facebook/jest)
+1. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
+2. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+3. 🎉 Merged PR [#126](https://github.com/transmute-industries/sidetree.js/pull/126) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
+5. 🎉 Merged PR [#125](https://github.com/transmute-industries/sidetree.js/pull/125) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
