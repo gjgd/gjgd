@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
-2. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-3. 🎉 Merged PR [#126](https://github.com/transmute-industries/sidetree.js/pull/126) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
-5. 🎉 Merged PR [#125](https://github.com/transmute-industries/sidetree.js/pull/125) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
+2. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
+3. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+4. 🎉 Merged PR [#126](https://github.com/transmute-industries/sidetree.js/pull/126) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
