@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
-2. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
-3. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-4. 🎉 Merged PR [#126](https://github.com/transmute-industries/sidetree.js/pull/126) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 🗣 Commented on [#3551](https://github.com/trufflesuite/truffle/issues/3551) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
+1. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+2. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+3. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
+4. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
+5. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
