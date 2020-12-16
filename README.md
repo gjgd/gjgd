@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
-2. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
-3. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
-4. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
-5. 🎉 Merged PR [#50](https://github.com/gjgd/jsonld-checker/pull/50) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+1. 🗣 Commented on [#2478](https://github.com/mbrn/material-table/issues/2478) in [mbrn/material-table](https://github.com/mbrn/material-table)
+2. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+3. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+4. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
+5. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
