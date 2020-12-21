@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2478](https://github.com/mbrn/material-table/issues/2478) in [mbrn/material-table](https://github.com/mbrn/material-table)
-2. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
-3. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
-4. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
-5. 🎉 Merged PR [#2](https://github.com/gjgd/ghdid/pull/2) in [gjgd/ghdid](https://github.com/gjgd/ghdid)
+1. 🗣 Commented on [#50](https://github.com/nearform/fastify-auth0-verify/issues/50) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+2. 🗣 Commented on [#2478](https://github.com/mbrn/material-table/issues/2478) in [mbrn/material-table](https://github.com/mbrn/material-table)
+3. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+4. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+5. 🗣 Commented on [#935](https://github.com/nextcloud/tasks/issues/935) in [nextcloud/tasks](https://github.com/nextcloud/tasks)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
