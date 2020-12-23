@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/transmute-industries/vc.js/pull/34) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-2. 🗣 Commented on [#50](https://github.com/nearform/fastify-auth0-verify/issues/50) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-3. 🗣 Commented on [#2478](https://github.com/mbrn/material-table/issues/2478) in [mbrn/material-table](https://github.com/mbrn/material-table)
-4. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
-5. 💪 Opened PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
+1. 🗣 Commented on [#128](https://github.com/transmute-industries/sidetree.js/issues/128) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#34](https://github.com/transmute-industries/vc.js/pull/34) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+3. 🗣 Commented on [#50](https://github.com/nearform/fastify-auth0-verify/issues/50) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+4. 🗣 Commented on [#2478](https://github.com/mbrn/material-table/issues/2478) in [mbrn/material-table](https://github.com/mbrn/material-table)
+5. 🎉 Merged PR [#1](https://github.com/gjgd/attestation-couvre-feu-covid-19/pull/1) in [gjgd/attestation-couvre-feu-covid-19](https://github.com/gjgd/attestation-couvre-feu-covid-19)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
