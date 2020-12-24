@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/transmute-industries/sidetree.js/pull/128) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. ❗️ Closed issue [#127](https://github.com/transmute-industries/sidetree.js/issues/127) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. ❗️ Opened issue [#129](https://github.com/transmute-industries/sidetree.js/issues/129) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🗣 Commented on [#128](https://github.com/transmute-industries/sidetree.js/issues/128) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 💪 Opened PR [#34](https://github.com/transmute-industries/vc.js/pull/34) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+1. ❗️ Opened issue [#949](https://github.com/formium/tsdx/issues/949) in [formium/tsdx](https://github.com/formium/tsdx)
+2. 🎉 Merged PR [#51](https://github.com/gjgd/jsonld-checker/pull/51) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+3. 🎉 Merged PR [#128](https://github.com/transmute-industries/sidetree.js/pull/128) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. ❗️ Closed issue [#127](https://github.com/transmute-industries/sidetree.js/issues/127) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. ❗️ Opened issue [#129](https://github.com/transmute-industries/sidetree.js/issues/129) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
