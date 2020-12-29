@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/gjgd/jsonld-checker/pull/52) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-2. 💪 Opened PR [#52](https://github.com/gjgd/jsonld-checker/pull/52) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-3. ❗️ Opened issue [#949](https://github.com/formium/tsdx/issues/949) in [formium/tsdx](https://github.com/formium/tsdx)
-4. 🎉 Merged PR [#51](https://github.com/gjgd/jsonld-checker/pull/51) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-5. 🎉 Merged PR [#128](https://github.com/transmute-industries/sidetree.js/pull/128) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. ❗️ Opened issue [#53](https://github.com/gjgd/jsonld-checker/issues/53) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. 🎉 Merged PR [#52](https://github.com/gjgd/jsonld-checker/pull/52) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+3. 💪 Opened PR [#52](https://github.com/gjgd/jsonld-checker/pull/52) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+4. ❗️ Opened issue [#949](https://github.com/formium/tsdx/issues/949) in [formium/tsdx](https://github.com/formium/tsdx)
+5. 🎉 Merged PR [#51](https://github.com/gjgd/jsonld-checker/pull/51) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
