@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/gjgd/lambda-url-shortener/pull/26) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-2. ❗️ Closed issue [#15](https://github.com/gjgd/lambda-url-shortener/issues/15) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-3. ❗️ Closed issue [#23](https://github.com/gjgd/lambda-url-shortener/issues/23) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. 💪 Opened PR [#26](https://github.com/gjgd/lambda-url-shortener/pull/26) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-5. ❗️ Opened issue [#25](https://github.com/gjgd/lambda-url-shortener/issues/25) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+1. ❗️ Opened issue [#28](https://github.com/gjgd/lambda-url-shortener/issues/28) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+2. 💪 Opened PR [#27](https://github.com/gjgd/lambda-url-shortener/pull/27) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+3. 🎉 Merged PR [#26](https://github.com/gjgd/lambda-url-shortener/pull/26) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+4. ❗️ Closed issue [#15](https://github.com/gjgd/lambda-url-shortener/issues/15) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. ❗️ Closed issue [#23](https://github.com/gjgd/lambda-url-shortener/issues/23) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
