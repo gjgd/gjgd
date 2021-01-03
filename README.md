@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/gjgd/lambda-url-shortener/issues/14) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-2. 🗣 Commented on [#14](https://github.com/gjgd/lambda-url-shortener/issues/14) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-3. 🗣 Commented on [#2](https://github.com/gjgd/lambda-url-shortener/issues/2) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. ❗️ Closed issue [#5](https://github.com/gjgd/lambda-url-shortener/issues/5) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-5. 🗣 Commented on [#4](https://github.com/gjgd/lambda-url-shortener/issues/4) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+1. ❗️ Opened issue [#861](https://github.com/serverless/components/issues/861) in [serverless/components](https://github.com/serverless/components)
+2. ❗️ Opened issue [#860](https://github.com/serverless/components/issues/860) in [serverless/components](https://github.com/serverless/components)
+3. 🗣 Commented on [#29](https://github.com/serverless-components/express/issues/29) in [serverless-components/express](https://github.com/serverless-components/express)
+4. ❗️ Closed issue [#14](https://github.com/gjgd/lambda-url-shortener/issues/14) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. 🗣 Commented on [#14](https://github.com/gjgd/lambda-url-shortener/issues/14) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
