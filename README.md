@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/transmute-industries/sidetree.js/pull/131) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🎉 Merged PR [#30](https://github.com/gjgd/lambda-url-shortener/pull/30) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-3. ❗️ Closed issue [#22](https://github.com/gjgd/lambda-url-shortener/issues/22) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. 💪 Opened PR [#30](https://github.com/gjgd/lambda-url-shortener/pull/30) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-5. ❗️ Closed issue [#860](https://github.com/serverless/components/issues/860) in [serverless/components](https://github.com/serverless/components)
+1. 🎉 Merged PR [#131](https://github.com/transmute-industries/sidetree.js/pull/131) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#131](https://github.com/transmute-industries/sidetree.js/pull/131) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#30](https://github.com/gjgd/lambda-url-shortener/pull/30) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+4. ❗️ Closed issue [#22](https://github.com/gjgd/lambda-url-shortener/issues/22) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. 💪 Opened PR [#30](https://github.com/gjgd/lambda-url-shortener/pull/30) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
