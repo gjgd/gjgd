@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🎉 Merged PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🎉 Merged PR [#137](https://github.com/transmute-industries/sidetree.js/pull/137) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 💪 Opened PR [#137](https://github.com/transmute-industries/sidetree.js/pull/137) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🗣 Commented on [#212](https://github.com/decentralized-identity/element/issues/212) in [decentralized-identity/element](https://github.com/decentralized-identity/element)
+2. 💪 Opened PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 💪 Opened PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🎉 Merged PR [#137](https://github.com/transmute-industries/sidetree.js/pull/137) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
