@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/decentralized-identity/element/issues/212) in [decentralized-identity/element](https://github.com/decentralized-identity/element)
-2. 💪 Opened PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🎉 Merged PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 💪 Opened PR [#138](https://github.com/transmute-industries/sidetree.js/pull/138) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 🎉 Merged PR [#137](https://github.com/transmute-industries/sidetree.js/pull/137) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. ❗️ Opened issue [#59](https://github.com/gjgd/jsonld-checker/issues/59) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. ❗️ Opened issue [#58](https://github.com/gjgd/jsonld-checker/issues/58) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+3. ❗️ Opened issue [#57](https://github.com/gjgd/jsonld-checker/issues/57) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+4. ❗️ Opened issue [#56](https://github.com/gjgd/jsonld-checker/issues/56) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+5. 🎉 Merged PR [#55](https://github.com/gjgd/jsonld-checker/pull/55) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
