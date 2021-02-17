@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 💪 Opened PR [#143](https://github.com/transmute-industries/sidetree.js/pull/143) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🎉 Merged PR [#62](https://github.com/gjgd/jsonld-checker/pull/62) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-4. ❗️ Closed issue [#57](https://github.com/gjgd/jsonld-checker/issues/57) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-5. ❗️ Closed issue [#56](https://github.com/gjgd/jsonld-checker/issues/56) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+1. 🎉 Merged PR [#143](https://github.com/transmute-industries/sidetree.js/pull/143) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. ❌ Closed PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 💪 Opened PR [#143](https://github.com/transmute-industries/sidetree.js/pull/143) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🎉 Merged PR [#62](https://github.com/gjgd/jsonld-checker/pull/62) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+5. ❗️ Closed issue [#57](https://github.com/gjgd/jsonld-checker/issues/57) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
