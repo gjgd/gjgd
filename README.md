@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/transmute-industries/vc.js/pull/48) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-2. 🎉 Merged PR [#144](https://github.com/transmute-industries/sidetree.js/pull/144) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#144](https://github.com/transmute-industries/sidetree.js/pull/144) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🎉 Merged PR [#143](https://github.com/transmute-industries/sidetree.js/pull/143) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. ❌ Closed PR [#140](https://github.com/transmute-industries/sidetree.js/pull/140) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🗣 Commented on [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+2. ❗️ Opened issue [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+3. 💪 Opened PR [#48](https://github.com/transmute-industries/vc.js/pull/48) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+4. 🎉 Merged PR [#144](https://github.com/transmute-industries/sidetree.js/pull/144) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 💪 Opened PR [#144](https://github.com/transmute-industries/sidetree.js/pull/144) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
