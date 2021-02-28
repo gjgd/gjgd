@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#45](https://github.com/w3c-ccg/lds-jws2020/pull/45) in [w3c-ccg/lds-jws2020](https://github.com/w3c-ccg/lds-jws2020)
-2. 🎉 Merged PR [#48](https://github.com/transmute-industries/vc.js/pull/48) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-3. 🗣 Commented on [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-4. ❗️ Opened issue [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-5. 💪 Opened PR [#48](https://github.com/transmute-industries/vc.js/pull/48) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+1. 💪 Opened PR [#146](https://github.com/transmute-industries/sidetree.js/pull/146) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. ❌ Closed PR [#45](https://github.com/w3c-ccg/lds-jws2020/pull/45) in [w3c-ccg/lds-jws2020](https://github.com/w3c-ccg/lds-jws2020)
+3. 🎉 Merged PR [#48](https://github.com/transmute-industries/vc.js/pull/48) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+4. 🗣 Commented on [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+5. ❗️ Opened issue [#49](https://github.com/transmute-industries/vc.js/issues/49) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
