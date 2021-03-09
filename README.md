@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/OR13/did-core-implementation-guide/pull/3) in [OR13/did-core-implementation-guide](https://github.com/OR13/did-core-implementation-guide)
-2. 💪 Opened PR [#147](https://github.com/transmute-industries/sidetree.js/pull/147) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#2](https://github.com/OR13/did-core-implementation-guide/pull/2) in [OR13/did-core-implementation-guide](https://github.com/OR13/did-core-implementation-guide)
-4. 🎉 Merged PR [#146](https://github.com/transmute-industries/sidetree.js/pull/146) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. ❗️ Closed issue [#145](https://github.com/transmute-industries/sidetree.js/issues/145) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🎉 Merged PR [#149](https://github.com/transmute-industries/sidetree.js/pull/149) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#3](https://github.com/OR13/did-core-implementation-guide/pull/3) in [OR13/did-core-implementation-guide](https://github.com/OR13/did-core-implementation-guide)
+3. 💪 Opened PR [#147](https://github.com/transmute-industries/sidetree.js/pull/147) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 💪 Opened PR [#2](https://github.com/OR13/did-core-implementation-guide/pull/2) in [OR13/did-core-implementation-guide](https://github.com/OR13/did-core-implementation-guide)
+5. 🎉 Merged PR [#146](https://github.com/transmute-industries/sidetree.js/pull/146) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
