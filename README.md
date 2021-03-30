@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🎉 Merged PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 💪 Opened PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. ❗️ Opened issue [#66](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/66) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+1. 🗣 Commented on [#149](https://github.com/w3c-ccg/traceability-vocab/issues/149) in [w3c-ccg/traceability-vocab](https://github.com/w3c-ccg/traceability-vocab)
+2. 💪 Opened PR [#149](https://github.com/w3c-ccg/traceability-vocab/pull/149) in [w3c-ccg/traceability-vocab](https://github.com/w3c-ccg/traceability-vocab)
+3. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🎉 Merged PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
