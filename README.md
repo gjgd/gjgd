@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🎉 Merged PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. ❗️ Opened issue [#66](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/66) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-5. 🎉 Merged PR [#148](https://github.com/transmute-industries/sidetree.js/pull/148) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🗣 Commented on [#154](https://github.com/transmute-industries/sidetree.js/issues/154) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 💪 Opened PR [#151](https://github.com/transmute-industries/sidetree.js/pull/151) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. ❗️ Opened issue [#66](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/66) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
