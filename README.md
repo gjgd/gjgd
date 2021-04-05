@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#157](https://github.com/transmute-industries/sidetree.js/pull/157) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🎉 Merged PR [#156](https://github.com/transmute-industries/sidetree.js/pull/156) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🎉 Merged PR [#155](https://github.com/transmute-industries/sidetree.js/pull/155) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🗣 Commented on [#149](https://github.com/w3c-ccg/traceability-vocab/issues/149) in [w3c-ccg/traceability-vocab](https://github.com/w3c-ccg/traceability-vocab)
-5. 💪 Opened PR [#149](https://github.com/w3c-ccg/traceability-vocab/pull/149) in [w3c-ccg/traceability-vocab](https://github.com/w3c-ccg/traceability-vocab)
+1. 💪 Opened PR [#158](https://github.com/transmute-industries/sidetree.js/pull/158) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🎉 Merged PR [#157](https://github.com/transmute-industries/sidetree.js/pull/157) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#156](https://github.com/transmute-industries/sidetree.js/pull/156) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🎉 Merged PR [#155](https://github.com/transmute-industries/sidetree.js/pull/155) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🗣 Commented on [#149](https://github.com/w3c-ccg/traceability-vocab/issues/149) in [w3c-ccg/traceability-vocab](https://github.com/w3c-ccg/traceability-vocab)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
