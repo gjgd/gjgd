@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/transmute-industries/vc.transmute.world/pull/57) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-2. 🎉 Merged PR [#160](https://github.com/transmute-industries/sidetree.js/pull/160) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#160](https://github.com/transmute-industries/sidetree.js/pull/160) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🎉 Merged PR [#159](https://github.com/transmute-industries/sidetree.js/pull/159) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 💪 Opened PR [#159](https://github.com/transmute-industries/sidetree.js/pull/159) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 💪 Opened PR [#34](https://github.com/transmute-industries/verifiable-data/pull/34) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+2. 💪 Opened PR [#57](https://github.com/transmute-industries/vc.transmute.world/pull/57) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+3. 🎉 Merged PR [#160](https://github.com/transmute-industries/sidetree.js/pull/160) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 💪 Opened PR [#160](https://github.com/transmute-industries/sidetree.js/pull/160) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🎉 Merged PR [#159](https://github.com/transmute-industries/sidetree.js/pull/159) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
