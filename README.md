@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/transmute-industries/did-key.js/pull/94) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-2. 🎉 Merged PR [#93](https://github.com/transmute-industries/did-key.js/pull/93) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-3. 🎉 Merged PR [#92](https://github.com/transmute-industries/did-key.js/pull/92) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-4. 🎉 Merged PR [#91](https://github.com/transmute-industries/did-key.js/pull/91) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-5. 🎉 Merged PR [#90](https://github.com/transmute-industries/did-key.js/pull/90) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+1. 🎉 Merged PR [#95](https://github.com/transmute-industries/did-key.js/pull/95) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+2. 🎉 Merged PR [#94](https://github.com/transmute-industries/did-key.js/pull/94) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+3. 🎉 Merged PR [#93](https://github.com/transmute-industries/did-key.js/pull/93) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+4. 🎉 Merged PR [#92](https://github.com/transmute-industries/did-key.js/pull/92) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+5. 🎉 Merged PR [#91](https://github.com/transmute-industries/did-key.js/pull/91) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
