@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/transmute-industries/verifiable-data/pull/36) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
-2. 🎉 Merged PR [#57](https://github.com/transmute-industries/vc.transmute.world/pull/57) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-3. 💪 Opened PR [#36](https://github.com/transmute-industries/verifiable-data/pull/36) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
-4. 🎉 Merged PR [#95](https://github.com/transmute-industries/did-key.js/pull/95) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-5. 🎉 Merged PR [#94](https://github.com/transmute-industries/did-key.js/pull/94) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+1. 💪 Opened PR [#38](https://github.com/transmute-industries/verifiable-data/pull/38) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+2. 🎉 Merged PR [#36](https://github.com/transmute-industries/verifiable-data/pull/36) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+3. 🎉 Merged PR [#57](https://github.com/transmute-industries/vc.transmute.world/pull/57) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+4. 💪 Opened PR [#36](https://github.com/transmute-industries/verifiable-data/pull/36) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+5. 🎉 Merged PR [#95](https://github.com/transmute-industries/did-key.js/pull/95) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
