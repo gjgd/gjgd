@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/transmute-industries/sidetree.js/pull/161) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. ❗️ Closed issue [#73](https://github.com/transmute-industries/did-key.js/issues/73) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-3. 🗣 Commented on [#73](https://github.com/transmute-industries/did-key.js/issues/73) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-4. 🎉 Merged PR [#97](https://github.com/transmute-industries/did-key.js/pull/97) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-5. 💪 Opened PR [#58](https://github.com/transmute-industries/vc.transmute.world/pull/58) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+1. 🎉 Merged PR [#161](https://github.com/transmute-industries/sidetree.js/pull/161) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#161](https://github.com/transmute-industries/sidetree.js/pull/161) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. ❗️ Closed issue [#73](https://github.com/transmute-industries/did-key.js/issues/73) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+4. 🗣 Commented on [#73](https://github.com/transmute-industries/did-key.js/issues/73) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+5. 🎉 Merged PR [#97](https://github.com/transmute-industries/did-key.js/pull/97) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
