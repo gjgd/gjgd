@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-2. ❗️ Opened issue [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-3. ❗️ Closed issue [#56](https://github.com/transmute-industries/vc.transmute.world/issues/56) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-4. 🗣 Commented on [#56](https://github.com/transmute-industries/vc.transmute.world/issues/56) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-5. 🎉 Merged PR [#58](https://github.com/transmute-industries/vc.transmute.world/pull/58) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+2. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
+3. ❗️ Opened issue [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
+4. ❗️ Closed issue [#56](https://github.com/transmute-industries/vc.transmute.world/issues/56) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+5. 🗣 Commented on [#56](https://github.com/transmute-industries/vc.transmute.world/issues/56) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
