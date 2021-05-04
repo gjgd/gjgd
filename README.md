@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
+1. ❗️ Opened issue [#89](https://github.com/digitalbazaar/authn.io/issues/89) in [digitalbazaar/authn.io](https://github.com/digitalbazaar/authn.io)
 2. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
 3. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-4. ❗️ Opened issue [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-5. ❗️ Closed issue [#56](https://github.com/transmute-industries/vc.transmute.world/issues/56) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+4. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
+5. ❗️ Opened issue [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
