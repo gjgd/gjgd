@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/gjgd/lambda-url-shortener/pull/33) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-2. 🎉 Merged PR [#34](https://github.com/gjgd/lambda-url-shortener/pull/34) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-3. 🎉 Merged PR [#31](https://github.com/gjgd/lambda-url-shortener/pull/31) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. 🎉 Merged PR [#32](https://github.com/gjgd/lambda-url-shortener/pull/32) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-5. ❗️ Opened issue [#89](https://github.com/digitalbazaar/authn.io/issues/89) in [digitalbazaar/authn.io](https://github.com/digitalbazaar/authn.io)
+1. 🗣 Commented on [#163](https://github.com/transmute-industries/sidetree.js/issues/163) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🗣 Commented on [#162](https://github.com/transmute-industries/sidetree.js/issues/162) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🗣 Commented on [#167](https://github.com/transmute-industries/sidetree.js/issues/167) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🎉 Merged PR [#33](https://github.com/gjgd/lambda-url-shortener/pull/33) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. 🎉 Merged PR [#34](https://github.com/gjgd/lambda-url-shortener/pull/34) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
