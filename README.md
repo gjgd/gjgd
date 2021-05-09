@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#89](https://github.com/digitalbazaar/authn.io/issues/89) in [digitalbazaar/authn.io](https://github.com/digitalbazaar/authn.io)
-2. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-3. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-4. 🗣 Commented on [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
-5. ❗️ Opened issue [#20](https://github.com/digitalbazaar/credential-handler-polyfill/issues/20) in [digitalbazaar/credential-handler-polyfill](https://github.com/digitalbazaar/credential-handler-polyfill)
+1. 🎉 Merged PR [#33](https://github.com/gjgd/lambda-url-shortener/pull/33) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+2. 🎉 Merged PR [#34](https://github.com/gjgd/lambda-url-shortener/pull/34) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+3. 🎉 Merged PR [#31](https://github.com/gjgd/lambda-url-shortener/pull/31) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+4. 🎉 Merged PR [#32](https://github.com/gjgd/lambda-url-shortener/pull/32) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. ❗️ Opened issue [#89](https://github.com/digitalbazaar/authn.io/issues/89) in [digitalbazaar/authn.io](https://github.com/digitalbazaar/authn.io)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
