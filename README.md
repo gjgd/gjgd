@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/gjgd/element-slack-bot/pull/10) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
-2. 🎉 Merged PR [#9](https://github.com/gjgd/element-slack-bot/pull/9) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
-3. 🗣 Commented on [#3](https://github.com/gjgd/truffle-hdwallet-provider-bug-example/issues/3) in [gjgd/truffle-hdwallet-provider-bug-example](https://github.com/gjgd/truffle-hdwallet-provider-bug-example)
-4. 🎉 Merged PR [#169](https://github.com/transmute-industries/sidetree.js/pull/169) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 🎉 Merged PR [#170](https://github.com/transmute-industries/sidetree.js/pull/170) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🎉 Merged PR [#3](https://github.com/gjgd/open-graph-preview-demo/pull/3) in [gjgd/open-graph-preview-demo](https://github.com/gjgd/open-graph-preview-demo)
+2. 🎉 Merged PR [#4](https://github.com/gjgd/open-graph-preview-demo/pull/4) in [gjgd/open-graph-preview-demo](https://github.com/gjgd/open-graph-preview-demo)
+3. 🎉 Merged PR [#10](https://github.com/gjgd/element-slack-bot/pull/10) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
+4. 🎉 Merged PR [#9](https://github.com/gjgd/element-slack-bot/pull/9) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
+5. 🗣 Commented on [#3](https://github.com/gjgd/truffle-hdwallet-provider-bug-example/issues/3) in [gjgd/truffle-hdwallet-provider-bug-example](https://github.com/gjgd/truffle-hdwallet-provider-bug-example)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
