@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gjgd/open-graph-preview-demo/pull/3) in [gjgd/open-graph-preview-demo](https://github.com/gjgd/open-graph-preview-demo)
-2. 🎉 Merged PR [#4](https://github.com/gjgd/open-graph-preview-demo/pull/4) in [gjgd/open-graph-preview-demo](https://github.com/gjgd/open-graph-preview-demo)
-3. 🎉 Merged PR [#10](https://github.com/gjgd/element-slack-bot/pull/10) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
-4. 🎉 Merged PR [#9](https://github.com/gjgd/element-slack-bot/pull/9) in [gjgd/element-slack-bot](https://github.com/gjgd/element-slack-bot)
-5. 🗣 Commented on [#3](https://github.com/gjgd/truffle-hdwallet-provider-bug-example/issues/3) in [gjgd/truffle-hdwallet-provider-bug-example](https://github.com/gjgd/truffle-hdwallet-provider-bug-example)
+1. 🎉 Merged PR [#179](https://github.com/transmute-industries/sidetree.js/pull/179) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🗣 Commented on [#179](https://github.com/transmute-industries/sidetree.js/issues/179) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#177](https://github.com/transmute-industries/sidetree.js/pull/177) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🎉 Merged PR [#190](https://github.com/transmute-industries/sidetree.js/pull/190) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🎉 Merged PR [#193](https://github.com/transmute-industries/sidetree.js/pull/193) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
