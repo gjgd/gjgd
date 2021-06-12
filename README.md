@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 💪 Opened PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🗣 Commented on [#194](https://github.com/transmute-industries/sidetree.js/issues/194) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 🎉 Merged PR [#195](https://github.com/transmute-industries/sidetree.js/pull/195) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 💪 Opened PR [#195](https://github.com/transmute-industries/sidetree.js/pull/195) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 🎉 Merged PR [#35](https://github.com/gjgd/lambda-url-shortener/pull/35) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+2. 🎉 Merged PR [#36](https://github.com/gjgd/lambda-url-shortener/pull/36) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+3. 🎉 Merged PR [#37](https://github.com/gjgd/lambda-url-shortener/pull/37) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+4. 🎉 Merged PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 💪 Opened PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
