@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/gjgd/lambda-url-shortener/pull/35) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-2. 🎉 Merged PR [#36](https://github.com/gjgd/lambda-url-shortener/pull/36) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-3. 🎉 Merged PR [#37](https://github.com/gjgd/lambda-url-shortener/pull/37) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
-4. 🎉 Merged PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 💪 Opened PR [#205](https://github.com/transmute-industries/sidetree.js/pull/205) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 💪 Opened PR [#3](https://github.com/transmute-industries/vc-http-api-1/pull/3) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+2. ❌ Closed PR [#199](https://github.com/w3c-ccg/vc-http-api/pull/199) in [w3c-ccg/vc-http-api](https://github.com/w3c-ccg/vc-http-api)
+3. 💪 Opened PR [#199](https://github.com/w3c-ccg/vc-http-api/pull/199) in [w3c-ccg/vc-http-api](https://github.com/w3c-ccg/vc-http-api)
+4. 🎉 Merged PR [#35](https://github.com/gjgd/lambda-url-shortener/pull/35) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
+5. 🎉 Merged PR [#36](https://github.com/gjgd/lambda-url-shortener/pull/36) in [gjgd/lambda-url-shortener](https://github.com/gjgd/lambda-url-shortener)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
