@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-2. 🎉 Merged PR [#6](https://github.com/transmute-industries/vc-http-api-1/pull/6) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-3. 🎉 Merged PR [#63](https://github.com/transmute-industries/verifiable-data/pull/63) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
-4. 💪 Opened PR [#63](https://github.com/transmute-industries/verifiable-data/pull/63) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
-5. 💪 Opened PR [#6](https://github.com/transmute-industries/vc-http-api-1/pull/6) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+1. 🎉 Merged PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+2. 💪 Opened PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+3. 🎉 Merged PR [#6](https://github.com/transmute-industries/vc-http-api-1/pull/6) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+4. 🎉 Merged PR [#63](https://github.com/transmute-industries/verifiable-data/pull/63) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+5. 💪 Opened PR [#63](https://github.com/transmute-industries/verifiable-data/pull/63) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
