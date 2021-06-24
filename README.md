@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-2. 💪 Opened PR [#67](https://github.com/transmute-industries/vc.transmute.world/pull/67) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-3. 🎉 Merged PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-4. 💪 Opened PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-5. 🎉 Merged PR [#6](https://github.com/transmute-industries/vc-http-api-1/pull/6) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+1. 🎉 Merged PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+2. 🎉 Merged PR [#67](https://github.com/transmute-industries/vc.transmute.world/pull/67) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+3. 💪 Opened PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
+4. 💪 Opened PR [#67](https://github.com/transmute-industries/vc.transmute.world/pull/67) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+5. 🎉 Merged PR [#7](https://github.com/transmute-industries/vc-http-api-1/pull/7) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
