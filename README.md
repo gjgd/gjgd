@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-2. 🗣 Commented on [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-3. 💪 Opened PR [#98](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/98) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-4. 💪 Opened PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-5. ❌ Closed PR [#1](https://github.com/gjgd/universal-wallet-interop-spec/pull/1) in [gjgd/universal-wallet-interop-spec](https://github.com/gjgd/universal-wallet-interop-spec)
+1. ❗️ Opened issue [#65](https://github.com/gjgd/jsonld-checker/issues/65) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. 🎉 Merged PR [#64](https://github.com/gjgd/jsonld-checker/pull/64) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+3. 💪 Opened PR [#64](https://github.com/gjgd/jsonld-checker/pull/64) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+4. ❌ Closed PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+5. 🗣 Commented on [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
