@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/transmute-industries/verifiable-data/pull/66) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
-2. 🎉 Merged PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-3. 🎉 Merged PR [#67](https://github.com/transmute-industries/vc.transmute.world/pull/67) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
-4. 💪 Opened PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
-5. 💪 Opened PR [#67](https://github.com/transmute-industries/vc.transmute.world/pull/67) in [transmute-industries/vc.transmute.world](https://github.com/transmute-industries/vc.transmute.world)
+1. ❗️ Opened issue [#63](https://github.com/gjgd/jsonld-checker/issues/63) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. 🎉 Merged PR [#144](https://github.com/transmute-industries/did-key.js/pull/144) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+3. 💪 Opened PR [#144](https://github.com/transmute-industries/did-key.js/pull/144) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+4. 💪 Opened PR [#66](https://github.com/transmute-industries/verifiable-data/pull/66) in [transmute-industries/verifiable-data](https://github.com/transmute-industries/verifiable-data)
+5. 🎉 Merged PR [#8](https://github.com/transmute-industries/vc-http-api-1/pull/8) in [transmute-industries/vc-http-api-1](https://github.com/transmute-industries/vc-http-api-1)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
