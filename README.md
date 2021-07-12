@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
-2. ❌ Closed PR [#1](https://github.com/gjgd/universal-wallet-interop-spec/pull/1) in [gjgd/universal-wallet-interop-spec](https://github.com/gjgd/universal-wallet-interop-spec)
-3. ❗️ Opened issue [#63](https://github.com/gjgd/jsonld-checker/issues/63) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-4. 🎉 Merged PR [#144](https://github.com/transmute-industries/did-key.js/pull/144) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-5. 💪 Opened PR [#144](https://github.com/transmute-industries/did-key.js/pull/144) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
+1. ❌ Closed PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+2. 🗣 Commented on [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+3. 💪 Opened PR [#98](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/98) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+4. 💪 Opened PR [#97](https://github.com/w3c-ccg/universal-wallet-interop-spec/pull/97) in [w3c-ccg/universal-wallet-interop-spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
+5. ❌ Closed PR [#1](https://github.com/gjgd/universal-wallet-interop-spec/pull/1) in [gjgd/universal-wallet-interop-spec](https://github.com/gjgd/universal-wallet-interop-spec)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
