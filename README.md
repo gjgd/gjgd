@@ -26,3 +26,15 @@
 ### 📊 Stats
 
 [![GJGD's github stats](https://github-readme-stats.vercel.app/api?username=gjgd&count_private=true&show_icons=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+  
+### 👷‍♂️ Proof of work
+  
+Found this 34 bits difficulty proof of work below using [this project](https://github.com/gjgd/gjgd-proof-of-work)
+  
+```python
+import hashlib
+
+print(hashlib.sha256(b"gjgd 10495463960").hexdigest())
+# 34 bit difficulty proof of work:
+# '00000000221eded872d7260ab228b4228460f621c925c811007c00a1c4df152e'
+```
