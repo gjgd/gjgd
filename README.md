@@ -29,7 +29,7 @@
   
 ### 👷‍♂️ Proof of work
   
-Found this 34 bits difficulty proof of work below using [this project](https://github.com/gjgd/gjgd-proof-of-work)
+Below is a 34 bits difficulty proof of work found using [this project](https://github.com/gjgd/gjgd-proof-of-work)
   
 ```python
 import hashlib
