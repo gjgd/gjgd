@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#223](https://github.com/decentralized-identity/ion/issues/223) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
-2. 🗣 Commented on [#191](https://github.com/decentralized-identity/ion/issues/191) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
-3. 🗣 Commented on [#217](https://github.com/decentralized-identity/ion/issues/217) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
-4. ❗️ Opened issue [#65](https://github.com/gjgd/jsonld-checker/issues/65) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
-5. 🎉 Merged PR [#64](https://github.com/gjgd/jsonld-checker/pull/64) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+1. 🎉 Merged PR [#66](https://github.com/gjgd/jsonld-checker/pull/66) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. ❗️ Opened issue [#223](https://github.com/decentralized-identity/ion/issues/223) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
+3. 🗣 Commented on [#191](https://github.com/decentralized-identity/ion/issues/191) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
+4. 🗣 Commented on [#217](https://github.com/decentralized-identity/ion/issues/217) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
+5. ❗️ Opened issue [#65](https://github.com/gjgd/jsonld-checker/issues/65) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
