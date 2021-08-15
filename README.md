@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <h1 align="center">👋 Hi, I'm Guillaume</h1>
-<h4 align="center">Fullstack developer passionate about privacy, blockchain and empowering people to control their own data.
+<h4 align="center">Software engineer, passionate about privacy, security, blockchain and cryptocurrencies.
 
 ### 📝 Latest Blog posts
 
