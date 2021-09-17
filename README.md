@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/gjgd/demo-element-in-docker/issues/2) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
-2. 🗣 Commented on [#219](https://github.com/transmute-industries/sidetree.js/issues/219) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🎉 Merged PR [#1](https://github.com/gjgd/demo-element-in-docker/pull/1) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
-4. 🗣 Commented on [#1](https://github.com/gjgd/demo-element-in-docker/issues/1) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
-5. 🎉 Merged PR [#66](https://github.com/gjgd/jsonld-checker/pull/66) in [gjgd/jsonld-checker](https://github.com/gjgd/jsonld-checker)
+2. 🗣 Commented on [#2](https://github.com/gjgd/demo-element-in-docker/issues/2) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
+3. 🗣 Commented on [#219](https://github.com/transmute-industries/sidetree.js/issues/219) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 🎉 Merged PR [#1](https://github.com/gjgd/demo-element-in-docker/pull/1) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
+5. 🗣 Commented on [#1](https://github.com/gjgd/demo-element-in-docker/issues/1) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
