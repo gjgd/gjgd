@@ -6,11 +6,11 @@
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Bitcoin Script quirks that every Blockchain developer should know](https://gjgd.medium.com/5-bitcoin-script-quirks-that-every-blockchain-developer-should-know-2b4bf05a9aae?source=rss-35e0d58bf235------2)
 - [Three Git Commands to Easily Navigate Version History](https://gjgd.medium.com/three-git-commands-to-easily-navigate-version-history-95998c391353?source=rss-35e0d58bf235------2)
 - [Create your Self-Hosted Github Action Runner in 5 minutes](https://gjgd.medium.com/create-your-self-hosted-github-action-runner-in-5-minutes-a9eff615edc4?source=rss-35e0d58bf235------2)
 - [Transmute Universal Resolver](https://medium.com/transmute-techtalk/transmute-universal-resolver-b6c8509858f?source=rss-35e0d58bf235------2)
 - [Linked Data Proofs vs JOSE: Why not both?](https://medium.com/transmute-techtalk/linked-data-proofs-vs-jose-why-not-both-1594393418cc?source=rss-35e0d58bf235------2)
-- [Is your browser safe against fingerprint tracking?](https://gjgd.medium.com/is-your-browser-safe-against-fingerprint-tracking-6126952b805b?source=rss-35e0d58bf235------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
