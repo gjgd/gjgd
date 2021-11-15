@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/gjgd/ion-block-explorer/pull/1) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-2. 🗣 Commented on [#3](https://github.com/gjgd/vagrant-nextcloud/issues/3) in [gjgd/vagrant-nextcloud](https://github.com/gjgd/vagrant-nextcloud)
-3. 🗣 Commented on [#2](https://github.com/gjgd/demo-element-in-docker/issues/2) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
+1. 🗣 Commented on [#275](https://github.com/transmute-industries/sidetree.js/issues/275) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 💪 Opened PR [#1](https://github.com/gjgd/ion-block-explorer/pull/1) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+3. 🗣 Commented on [#3](https://github.com/gjgd/vagrant-nextcloud/issues/3) in [gjgd/vagrant-nextcloud](https://github.com/gjgd/vagrant-nextcloud)
 4. 🗣 Commented on [#2](https://github.com/gjgd/demo-element-in-docker/issues/2) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
-5. 🗣 Commented on [#219](https://github.com/transmute-industries/sidetree.js/issues/219) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🗣 Commented on [#2](https://github.com/gjgd/demo-element-in-docker/issues/2) in [gjgd/demo-element-in-docker](https://github.com/gjgd/demo-element-in-docker)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
