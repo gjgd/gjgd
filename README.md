@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com/trotto/go-links/issues/128) in [trotto/go-links](https://github.com/trotto/go-links)
-2. 🗣 Commented on [#275](https://github.com/transmute-industries/sidetree.js/issues/275) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+1. 💪 Opened PR [#20](https://github.com/decentralized-identity/ion-sdk/pull/20) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+2. ❗️ Opened issue [#128](https://github.com/trotto/go-links/issues/128) in [trotto/go-links](https://github.com/trotto/go-links)
 3. 🗣 Commented on [#275](https://github.com/transmute-industries/sidetree.js/issues/275) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. 💪 Opened PR [#1](https://github.com/gjgd/ion-block-explorer/pull/1) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-5. 🗣 Commented on [#3](https://github.com/gjgd/vagrant-nextcloud/issues/3) in [gjgd/vagrant-nextcloud](https://github.com/gjgd/vagrant-nextcloud)
+4. 🗣 Commented on [#275](https://github.com/transmute-industries/sidetree.js/issues/275) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 💪 Opened PR [#1](https://github.com/gjgd/ion-block-explorer/pull/1) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
