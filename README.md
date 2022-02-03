@@ -18,9 +18,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
 2. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
-3. 💪 Opened PR [#23](https://github.com/decentralized-identity/ion-sdk/pull/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
-4. 🗣 Commented on [#276](https://github.com/transmute-industries/sidetree.js/issues/276) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 🗣 Commented on [#245](https://github.com/decentralized-identity/ion/issues/245) in [decentralized-identity/ion](https://github.com/decentralized-identity/ion)
+3. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+4. 💪 Opened PR [#23](https://github.com/decentralized-identity/ion-sdk/pull/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+5. 🗣 Commented on [#276](https://github.com/transmute-industries/sidetree.js/issues/276) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
