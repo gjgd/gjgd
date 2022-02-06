@@ -16,10 +16,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#361](https://github.com/transmute-industries/sidetree.js/pull/361) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 🎉 Merged PR [#1](https://github.com/gjgd/ion-sdk/pull/1) in [gjgd/ion-sdk](https://github.com/gjgd/ion-sdk)
-3. 💪 Opened PR [#1](https://github.com/gjgd/ion-sdk/pull/1) in [gjgd/ion-sdk](https://github.com/gjgd/ion-sdk)
-4. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+1. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+2. 💪 Opened PR [#361](https://github.com/transmute-industries/sidetree.js/pull/361) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🎉 Merged PR [#1](https://github.com/gjgd/ion-sdk/pull/1) in [gjgd/ion-sdk](https://github.com/gjgd/ion-sdk)
+4. 💪 Opened PR [#1](https://github.com/gjgd/ion-sdk/pull/1) in [gjgd/ion-sdk](https://github.com/gjgd/ion-sdk)
 5. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
 <!--END_SECTION:activity-->
 
