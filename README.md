@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gjgd/ion-block-explorer/pull/3) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-2. 💪 Opened PR [#3](https://github.com/gjgd/ion-block-explorer/pull/3) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-3. 🎉 Merged PR [#2](https://github.com/gjgd/ion-block-explorer/pull/2) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-4. 💪 Opened PR [#2](https://github.com/gjgd/ion-block-explorer/pull/2) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
-5. 🎉 Merged PR [#1](https://github.com/gjgd/ion-block-explorer/pull/1) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+1. ❌ Closed PR [#23](https://github.com/decentralized-identity/ion-sdk/pull/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+2. 🎉 Merged PR [#3](https://github.com/gjgd/ion-block-explorer/pull/3) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+3. 💪 Opened PR [#3](https://github.com/gjgd/ion-block-explorer/pull/3) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+4. 🎉 Merged PR [#2](https://github.com/gjgd/ion-block-explorer/pull/2) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+5. 💪 Opened PR [#2](https://github.com/gjgd/ion-block-explorer/pull/2) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
