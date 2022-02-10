@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
-2. 🎉 Merged PR [#361](https://github.com/transmute-industries/sidetree.js/pull/361) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. ❗️ Closed issue [#276](https://github.com/transmute-industries/sidetree.js/issues/276) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. ❌ Closed PR [#23](https://github.com/decentralized-identity/ion-sdk/pull/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
-5. 🎉 Merged PR [#3](https://github.com/gjgd/ion-block-explorer/pull/3) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+1. 💪 Opened PR [#368](https://github.com/transmute-industries/sidetree.js/pull/368) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. 🗣 Commented on [#23](https://github.com/decentralized-identity/ion-sdk/issues/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
+3. 🎉 Merged PR [#361](https://github.com/transmute-industries/sidetree.js/pull/361) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. ❗️ Closed issue [#276](https://github.com/transmute-industries/sidetree.js/issues/276) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. ❌ Closed PR [#23](https://github.com/decentralized-identity/ion-sdk/pull/23) in [decentralized-identity/ion-sdk](https://github.com/decentralized-identity/ion-sdk)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
