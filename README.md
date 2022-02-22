@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/transmute-industries/sidetree.js/issues/375) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-2. 💪 Opened PR [#375](https://github.com/transmute-industries/sidetree.js/pull/375) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 🗣 Commented on [#374](https://github.com/transmute-industries/sidetree.js/issues/374) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-4. ❗️ Opened issue [#374](https://github.com/transmute-industries/sidetree.js/issues/374) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-5. 🎉 Merged PR [#4](https://github.com/gjgd/ion-block-explorer/pull/4) in [gjgd/ion-block-explorer](https://github.com/gjgd/ion-block-explorer)
+1. 🎉 Merged PR [#375](https://github.com/transmute-industries/sidetree.js/pull/375) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+2. ❗️ Closed issue [#374](https://github.com/transmute-industries/sidetree.js/issues/374) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+3. 🗣 Commented on [#375](https://github.com/transmute-industries/sidetree.js/issues/375) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+4. 💪 Opened PR [#375](https://github.com/transmute-industries/sidetree.js/pull/375) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 🗣 Commented on [#374](https://github.com/transmute-industries/sidetree.js/issues/374) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
 ### 📊 Stats
