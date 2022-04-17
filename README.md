@@ -23,10 +23,6 @@
 5. 🗣 Commented on [#374](https://github.com/transmute-industries/sidetree.js/issues/374) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
 <!--END_SECTION:activity-->
 
-### 📊 Stats
-
-[![GJGD's github stats](https://github-readme-stats.vercel.app/api?username=gjgd&count_private=true&show_icons=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-  
 ### 👷‍♂️ Proof of work
   
 Below is a 34 bits difficulty proof of work found using [this project](https://github.com/gjgd/gjgd-proof-of-work)
